@@ -1,0 +1,11 @@
+
+Interpolation
+Property binding
+event binding
+two way binding
+https://developer.mozilla.org/en-US/docs/Web/Events\
+inteface : strong typing support
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
+http://rxmarbles.com/
