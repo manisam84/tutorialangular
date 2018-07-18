@@ -9,3 +9,4 @@ inteface : strong typing support
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 
 http://rxmarbles.com/
+https://stackoverflow.com/questions/37123514/read-html-file-into-template-in-angular-2/37127142
