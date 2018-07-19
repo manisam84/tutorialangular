@@ -10,3 +10,4 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 http://rxmarbles.com/
 https://stackoverflow.com/questions/37123514/read-html-file-into-template-in-angular-2/37127142
+https://stackoverflow.com/questions/31692416/dynamic-template-urls-in-angular-2
