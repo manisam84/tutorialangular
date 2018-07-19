@@ -63,3 +63,33 @@ toggleshow():void{
     }
 }
 }
+
+=================
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'my-app',
+  template: `Enter Your First Name:
+<br>
+<input id="firstName" type="text" [(ngModel)]="name.first">
+<br>
+Enter Your last Name:
+<br>
+<input id="lastName" type="text" [(ngModel)]="name.last">
+<br>
+<h2>Message from Two way Binding</h2>
+<h3 id="output">
+<!--add welcome message here with first and last values of name-->
+<h1> Welcome {{name.first}} {{name.last}}</h1>
+</h3>
+
+`
+  
+}) 
+export class AppComponent {
+  //Define your name object with first and last properties
+  name={
+      "first":"John",
+      "last" :"Smith"
+  };
+}
