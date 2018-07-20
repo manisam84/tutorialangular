@@ -93,3 +93,20 @@ export class AppComponent {
       "last" :"Smith"
   };
 }
+===========
+
+Hints:
+ 
+
+Create a component with selector as app-root
+Use a templateUrl that refer to the app.component.html.
+Use a styleUrls thet refer to the app.component.css.
+Define the variables in AppComponent,
+ done as boolean
+ todos as any
+ newToDoas string
+ newToDoObjas any
+erroras boolean
+TODOS as array
+ Define constructor with todos as [], newTODO as empty and error as false.
+Declare and define  functions addMore() and clearAll() to perform the specific tasks.
