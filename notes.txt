@@ -1,3 +1,10 @@
+https://angular.io/api/core/ViewEncapsulation#ShadowDom
+
+ encapsulation: ViewEncapsulation.ShadowDom
+})
+class MyApp {
+}
+
 
 Interpolation
 Property binding
